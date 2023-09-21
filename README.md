@@ -1,4 +1,6 @@
-# 안녕하세요! 저는 이동혁입니다. 👋
+## Hi! I'm DONGHYUK LEE 👋
+---
+### 🛠️ Stack
 
 [![Java](https://img.shields.io/badge/Java-blue)](https://www.java.com/)
 
