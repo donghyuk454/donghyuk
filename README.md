@@ -1,6 +1,5 @@
 ## Hi! I'm DONGHYUK LEE 👋
 ### 🛠️ Stack
----
 [![Java](https://img.shields.io/badge/Java-blue)](https://www.java.com/)
 
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-brightgreen)](https://spring.io/projects/spring-boot)
